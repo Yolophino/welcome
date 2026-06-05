@@ -1,5 +1,16 @@
 # 🧮 Calculadora en C usando Librerías Personalizadas
 
+# ¡Hola! Bienvenidos  👋
+Soy estudiante de la Universidad Regiomontana
+### 🛠️ Mis Tecnologías y Herramientas
+* 💻 **SQL** 
+* ⚛️ **Python**
+* 🟢 **Html,CSS** 
+### 📊 Mis Estadísticas de GitHub
+Están en proceso.....
+
+
+
 > Proyecto desarrollado en lenguaje C que implementa una calculadora básica mediante el uso de una librería personalizada.
 
 ---
